@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "ausgewhltebrief00gschgoog_0005.png"; bbox 0 0 3025 4825; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 8 2990 4810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 40 8 2990 4810">
+     <span class='ocr_line' id='line_1_1' title="bbox 40 8 2990 4810; baseline 0 -79"><span class='ocrx_word' id='word_1_1' title='bbox 40 8 2990 4810; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 2614 4426 2990 4731; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2008 4502 2614 4623">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2008 4502 2614 4623">
+     <span class='ocr_line' id='line_1_2' title="bbox 2008 4502 2614 4623; baseline 0 -37"><span class='ocrx_word' id='word_1_3' title='bbox 2008 4552 2181 4596; x_wconf 53' lang='lat' dir='ltr'>Qum</span> <span class='ocrx_word' id='word_1_4' title='bbox 2200 4502 2614 4623; x_wconf 57' lang='lat' dir='ltr'>byGOOgle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2511 4679 2605 4806">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2511 4679 2605 4806">
+     <span class='ocr_line' id='line_1_3' title="bbox 2511 4679 2605 4806; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 2511 4679 2605 4806; x_wconf 62' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
